@@ -67,6 +67,6 @@ Hey there! I'm Demon, a supernatural being delving into the world of hacking and
 
 ----
 
-Credits: [Your Name](YOUR_GITHUB_PROFILE_LINK)
+Credits: [satan](YOUR_GITHUB_PROFILE_LINK)
 
 Last Edited on: CURRENT_DATE
