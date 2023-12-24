@@ -42,7 +42,7 @@ Hey there! I'm Demon, a supernatural being delving into the world of hacking and
 ### 👉 Operating Systems
 
 <p align="center">
-  <img src="(https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)" alt="Kali Linux"/>
+  <img src="![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)"/>
   <img src="WINDOWS_BADGE" alt="Windows"/>
 </p>
 
