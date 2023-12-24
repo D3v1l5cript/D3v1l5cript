@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Demon 👹</h1>
 <p align="center">
-  <img src="https://ibb.co/TwNzKcN" width="200">
-</p>
+ </p>
 
 ## 👹 About Me
 
