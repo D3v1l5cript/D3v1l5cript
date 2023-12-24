@@ -43,7 +43,7 @@ Hey there! I'm Demon, a supernatural being delving into the world of hacking and
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="WINDOWS_BADGE" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
 
 ### 👉 Integrated Development Environment (IDE)
@@ -55,10 +55,8 @@ Hey there! I'm Demon, a supernatural being delving into the world of hacking and
 ### 👉 Programming Languages
 
 <p align="center">
-  <img src="PYTHON_BADGE" alt="Python"/>
-  <img src="C_BADGE" alt="C"/>
-  <img src="CPP_BADGE" alt="C++"/>
-</p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+ </p>
 
 ## 💻 GitHub Stats
 
